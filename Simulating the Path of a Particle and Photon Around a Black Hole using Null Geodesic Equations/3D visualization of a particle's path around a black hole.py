@@ -2,7 +2,7 @@
 """
 3D visualization of a particle's path around a black hole
 
-@author: hello
+@author: Abhisek
 """
 
 import numpy as np
